@@ -1,0 +1,73 @@
+body{
+   background-color:beige;
+
+  
+}
+header{
+border: 10px solid black;
+height: 300px;
+width: 100vw;
+
+}
+.purplebox{
+    background-color: purple;
+    height:200px;
+    width:40px;
+    margin-top: 85px;
+    margin-left: 20px;
+    float:left
+}
+.greenbox{
+    background-color: green;
+    height:273px;
+    width:400px;
+    float:left;
+    margin-top: 11px;
+    margin-left: 85px;
+}
+.bluecircle{
+    background-color: lightblue;
+    height: 270px;
+    width:270px;
+    float: left;
+    margin-top: 13px;
+    margin-left: 158px;
+    border-radius:150px;
+}
+middle{
+   width:100vw;
+    border:8px dotted black;
+    height:300px;
+    margin-top: 40px;
+    display: inline-block;
+
+}
+.emptybox{
+    background-color: yellow;
+    height: 200px;
+    width:1500px;
+    margin-top: 44px;
+    margin-left:190px;
+    box-shadow: 20px 10px 50px 10px;
+}
+footer{
+    width:27vw;
+    
+    height:263px;
+    margin-top: 40px;
+    display: inline-block;
+    margin-left:38vw;
+    box-shadow: 10px 10px 50px -10px;
+}
+h1{
+    height:100px;
+    width:50px;
+    color :blue;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 93px;
+    margin-left: 165px;
+    letter-spacing: 5px;
+
+
+}
